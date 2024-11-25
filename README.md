@@ -40,6 +40,6 @@ Como opcional, fica o desenvolvimento das funcionalidades de cadastro e remoçã
 
 > Referente aos dados necessários, lembre-se que a imagem, você deve apenas cadastrar o link da imagem e ela deve ser apresentada.
 
-> Dica: Foque em colocar os items em tela, inclusive com a utilização do Javascript e adição. Deixe o CSS para o final.
+> Dica: Foque em colocar os items em tela, inclusive com a utilização do Javascript e adição. Deixe o CSS para o final sempre.
 
 ![Diagrama](img/modelo.jpeg)
